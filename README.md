@@ -3,7 +3,6 @@
 Name: Haripriyan V  
 Program: Infosys Springboard Virtual Internship 6.0  
 Batch: 11  
-Technology: Python  
 
 📍 Description
 
