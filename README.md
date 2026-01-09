@@ -9,14 +9,14 @@ Technology: Python
 
 This repository contains Python practice programs and activity summaries developed as part of the Infosys Springboard Virtual Internship 6.0 (Python Technology Track).
 
-The code covers essential Python concepts, including:
-Input and output operations
-Variables and data types
-Mathematical operations
-String slicing
-String functions and methods (etc.)
-Conditional statements
-Usage of built-in modules such as keyword and calendar
+The code covers essential Python concepts, including:  
+Input and output operations  
+Variables and data types  
+Mathematical operations  
+String slicing(positive & negative indexing)   
+String functions and methods (etc.)  
+Conditional statements  
+Usage of built-in modules such as keyword and calendar  
 
 ▶️ How to Run
 
@@ -32,6 +32,5 @@ Google Colab Notebook (class practice code):
 
 This repository summarizes all activities, learning progress, and coding tasks completed during the internship period.
 It includes:
-A complete activity summary
-All Python practice programs taught from Day 1 to Day 9
-If you want, I can also create a separate Activity_Summary.md file for your repo
+A complete activity summary  
+All Python practice programs taught from intership program.
